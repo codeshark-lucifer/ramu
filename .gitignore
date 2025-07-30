@@ -1,3 +1,4 @@
+.vs
 # Prerequisites
 *.d
 
@@ -38,4 +39,8 @@
 *.app
 
 # debug information files
+<<<<<<< HEAD
 *.dwo
+=======
+*.dwo
+>>>>>>> 0f80f9b6025349e0ef7ccf1464de264d77ecdd13
